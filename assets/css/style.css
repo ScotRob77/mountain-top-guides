@@ -1,6 +1,28 @@
-body {
-    font-family: arial;
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+body {
+    font-family: nunito, sans-serif;
+    font-weight: 400;
+}
+
+#logo {
+    float: left;
+}
+
+#nav li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+
 
 
 
