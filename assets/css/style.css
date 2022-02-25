@@ -9,7 +9,11 @@
 body {
     font-family: nunito, sans-serif;
     font-weight: 400;
+    color: white;
+    background-color: rgb(121, 121, 194);
 }
+
+/* header logo and navigation links */
 
 #logo, #nav {
     line-height: 80px;
@@ -17,6 +21,10 @@ body {
 
 #logo {
     float: left;
+}
+
+#logo:hover  {
+    text-transform: var(Mountain Top Guides);
 }
 
 #nav li {
@@ -28,7 +36,7 @@ body {
 
 #nav a {
     text-decoration: none;
-    color: rgb(121, 121, 194);
+    color: white;
 }
 
 #nav a:hover  {
@@ -36,6 +44,14 @@ body {
 }
 .active {
     border-bottom: 1px solid rgb(121, 121, 194);
+}
+
+/* home page image */
+#main-image {
+    height: 480px;
+    width: 100%;
+    background: url(../images/glencoe-1248184_1920.jpg) no-repeat center center;
+    
 }
 
 
