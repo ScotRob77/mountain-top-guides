@@ -15,12 +15,14 @@ body {
 
 /* header logo and navigation links */
 
-#logo, #nav {
+#logo,
+#nav {
     line-height: 80px;
 }
 
 #logo {
     float: left;
+    padding-left: 30px;
 }
 
 
@@ -28,7 +30,7 @@ body {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    
+
 }
 
 #nav a {
@@ -36,23 +38,29 @@ body {
     color: white;
 }
 
-#nav a:hover  {
+#nav a:hover {
     border-bottom: 1px solid rgb(121, 121, 194);
 }
+
 .active {
     border-bottom: 1px solid rgb(121, 121, 194);
 }
 
 /* home page image */
-#main-image {
+#home-image {
     height: 480px;
     width: 100%;
     background: url(../images/glencoe-1248184_1920.jpg) no-repeat center center;
-    
 }
 
 
 
+#company-name {
+    font-size: 200%;
+    font-family: Roboto, sans-serif;
 
+    position: absolute;
 
-
+    bottom: 100px;
+    left: 30px;
+}
