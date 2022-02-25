@@ -23,9 +23,6 @@ body {
     float: left;
 }
 
-#logo:hover  {
-    text-transform: var(Mountain Top Guides);
-}
 
 #nav li {
     float: right;
