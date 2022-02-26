@@ -18,6 +18,17 @@ body {
     font-size: 40px;
     font-family: Roboto, sans-serif;
     color: white;
+    width: 100%;
+}
+.subheading {
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    color: white;
+    width: 100%;
+    padding-top: 10px;
+    text-decoration: underline;
+    }
+    
 
 }
 
@@ -51,12 +62,12 @@ body {
 }
 
 .active {
-    border-bottom: 1px solid rgb(121, 121, 194);
+    border-bottom: 1px solid white;
 }
 
 /* home page image */
 #home-image {
-    height: 480px;
+    height: 300px;
     width: 100%;
     background: url(../images/glencoe-1248184_1920.jpg) no-repeat center center;
 }
@@ -95,7 +106,7 @@ img {
 }
 
 
-#him-text {
+.image-text {
     width: 77%;
     height: 180px;
     display: inline;
@@ -105,7 +116,7 @@ img {
     
 }
 
-#her-text {
+.what-text {
     width: 77%;
     height: 180px;
     display: inline;
@@ -113,3 +124,6 @@ img {
     margin: 10px 30px 10px 30px;
     vertical-align: middle;
 }
+
+/* What we do page */
+
