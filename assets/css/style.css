@@ -58,7 +58,7 @@ body {
 }
 
 #nav a:hover {
-    border-bottom: 1px solid rgb(121, 121, 194);
+    border-bottom: 1px solid darkblue;
 }
 
 .active {
@@ -78,10 +78,6 @@ body {
     font-size: 200%;
     font-family: Roboto, sans-serif;
 
-    position: absolute;
-
-    bottom: 100px;
-    left: 30px;
 }
 
 /* home page text and images */
