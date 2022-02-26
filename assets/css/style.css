@@ -132,6 +132,7 @@ img {
     align-items: center;
     justify-content: center;
     height: 200px;
+    margin-right: 20px;
     
 }
 
@@ -142,14 +143,7 @@ img {
         
 }
 
-.image-what {
-    flex-basis: 50%;
-    max-height: 200px;
-    min-height: 200px;
-    order: 2;
-    padding-right: 20px;
 
-}
 .text {
     
     padding-left: 40px;
@@ -163,4 +157,11 @@ img {
 #male-image {
     max-width: 200px;
     max-height: 200px;
+}
+
+#winter-image {
+    max-width: 200px;
+    max-height: 200px;
+    min-height: 200px;
+    min-width: 200px;
 }
