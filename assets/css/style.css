@@ -13,6 +13,14 @@ body {
     background-color: rgb(121, 121, 194);
 }
 
+.heading {
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto, sans-serif;
+    color: white;
+
+}
+
 /* header logo and navigation links */
 
 #logo,
@@ -63,4 +71,45 @@ body {
 
     bottom: 100px;
     left: 30px;
+}
+
+/* home page text and images */
+#about-us {
+    height: 480px;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.cat {
+    height: 200px;
+    width: 200px;
+    float: left;
+    
+    
+}
+
+
+#him-text {
+    width: 77%;
+    height: 180px;
+    display: inline;
+    float: right;
+    margin: 10px 30px 10px 30px;
+    vertical-align: middle;
+    
+}
+
+#her-text {
+    width: 77%;
+    height: 180px;
+    display: inline;
+    float: right;
+    margin: 10px 30px 10px 30px;
+    vertical-align: middle;
 }
