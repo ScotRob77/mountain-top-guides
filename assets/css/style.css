@@ -21,6 +21,7 @@ body {
     color: white;
     width: 100%;
     margin: 10px 20px 40px 20px;
+    clear: both;
 }
 .subheading {
     text-align: center;
@@ -83,6 +84,7 @@ body {
 /* home page text and images */
 .about-us {
     height: 60px;
+    clear: both;
     
 }
 
@@ -117,6 +119,8 @@ img {
     justify-content: center;
     height: 250px;
     margin-right: 20px;
+    clear: both;
+    
     
 }
 
