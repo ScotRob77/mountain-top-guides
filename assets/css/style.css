@@ -246,3 +246,15 @@ img {
     text-align: center;
     padding-top: 150px;
 }
+
+/* where we go photos */
+
+#gallery {
+    column-count: 3;
+    
+}
+
+#gallery > img {
+    width: 100%;
+}
+
