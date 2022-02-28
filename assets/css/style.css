@@ -59,11 +59,11 @@ body {
 }
 
 #nav a:hover {
-    border-bottom: 1px solid darkblue;
+    border-bottom: 1px solid white;
 }
 
 .active {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid darkblue;
 }
 
 
