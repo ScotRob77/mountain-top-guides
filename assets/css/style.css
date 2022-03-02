@@ -237,15 +237,18 @@ img {
 
 /* where we go photos */
 
-#gallery {
-    column-count: 3;
-    margin-top: 20px;
 
 
+#gallery>a>img {
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    
 }
 
-#gallery>img {
-    width: 100%;
+#gallery>a>img:hover {
+    box-shadow: 0 0 2px 1px darkblue;
 }
 
 /* footer */
@@ -291,7 +294,7 @@ footer {
     #company-name {
         font-size: 200%;
         text-align: center;
-        
+
         font-family: Roboto, sans-serif;
     }
 }
