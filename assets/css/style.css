@@ -18,7 +18,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 250px;
-    margin:2px 20px;
+    margin: 2px 20px;
     clear: both;
     border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
     border: 2px solid white;
@@ -34,13 +34,14 @@ body {
     width: 100%;
     clear: both;
 }
+
 .subheading {
     text-align: center;
     color: darkblue;
     width: 100%;
-    
+
 }
-    
+
 
 /* header logo and navigation links */
 
@@ -52,7 +53,7 @@ body {
 #logo {
     float: left;
     padding-left: 30px;
-    
+
 }
 
 
@@ -87,13 +88,13 @@ body {
 .about-us {
     height: 60px;
     clear: both;
-    
+
 }
 
 img {
     max-width: 100%;
     max-height: 100%;
-    margin-left: 30px; 
+    margin-left: 30px;
 }
 
 #female-image {
@@ -111,16 +112,16 @@ img {
 
 .what-we-do {
     height: 250px;
-    
+
 }
 
 .image {
-    flex-basis: 60%;
-        
+    float: left;
+
 }
 
 .text {
-    
+    float: right;
     padding-left: 40px;
 }
 
@@ -129,22 +130,22 @@ img {
 #winter-image {
     max-width: 300px;
     max-height: 2000px;
-    
+
 }
 
 #summer-image {
     max-width: 300px;
     max-height: 200px;
-    
+
 }
 
 #climb-image {
     max-width: 300px;
     max-height: 200px;
-    
+
 }
 
-#winter-climb  {
+#winter-climb {
     margin-top: 5px;
 }
 
@@ -166,10 +167,10 @@ img {
     position: absolute;
     padding: 30px;
     left: 30%;
-    
+
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
     font-family: Roboto, sans-serif;
@@ -223,17 +224,17 @@ img {
 
 #contact-image {
     background: url(../images/sunset.jpg) no-repeat center center;
-    height: 300px;  
+    height: 300px;
     width: 100%;
     background-size: 100% 300px;
     margin-top: 5px;
-    
+
 }
 
 #contact {
     text-align: center;
     padding-top: 30px;
-    
+
 }
 
 #contact-details {
@@ -251,12 +252,13 @@ img {
 /* where we go photos */
 
 #gallery {
-  column-count: 3;
-  margin-top: 20px;
-  
+    column-count: 3;
+    margin-top: 20px;
+
 
 }
-#gallery > img {
+
+#gallery>img {
     width: 100%;
 }
 
@@ -268,12 +270,12 @@ footer {
 
 .social-media {
     text-align: center;
-    
+
 }
 
-.social-media > li {
+.social-media>li {
     display: inline;
-    
+
 }
 
 .social-media i {
@@ -281,5 +283,29 @@ footer {
     color: white;
     padding: 1.5%;
     margin: 0 10%;
-    
+
+}
+
+/* Media Queries */
+
+/* for medium to small size screens up to 800px wide */
+
+@media screen and (max-width: 800px) {
+    .container {
+        height: 550px;
+        flex-direction: column;
+
+    }
+
+    .text {
+        padding: 0;
+        margin: 0 auto;
+    }
+
+    #company-name {
+        font-size: 200%;
+        text-align: center;
+        
+        font-family: Roboto, sans-serif;
+    }
 }
