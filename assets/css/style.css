@@ -20,7 +20,6 @@ body {
     font-family: Roboto, sans-serif;
     color: white;
     width: 100%;
-    
     clear: both;
 }
 .subheading {
@@ -251,6 +250,7 @@ img {
 
 #gallery {
     column-count: 3;
+    margin-top: 20px;
     
 }
 
