@@ -35,6 +35,8 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 
 ### Want to join page
 * This page will give the user the opportunity to find out more and to ask specific questions
+* The user will be unable to submit unless all fields have been completed.
+* This is a fake form and will send you to a Thank You page
 
 ### Future features
 * A blog offering advice and tips for the hill walking community.
