@@ -253,3 +253,26 @@ img {
     width: 100%;
 }
 
+/* footer */
+
+footer {
+    height: 75px;
+}
+
+.social-media {
+    text-align: center;
+    
+}
+
+.social-media > li {
+    display: inline;
+    
+}
+
+.social-media i {
+    font-size: 200%;
+    color: white;
+    padding: 1.5%;
+    margin: 0 10%;
+    
+}
