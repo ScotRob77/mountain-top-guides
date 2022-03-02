@@ -13,6 +13,17 @@ body {
     background-color: rgb(121, 121, 194);
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    margin:0 20px;
+    clear: both;
+    border: 1px dotted darkblue;
+
+}
+
 /* headings and subheadings */
 .heading {
     text-align: center;
@@ -65,14 +76,13 @@ body {
 }
 
 
-/* home page image */
+/* home page text and images */
 #home-image {
     height: 300px;
     width: 100%;
     background: url(../images/glencoe-1248184_1920.jpg) no-repeat center center;
 }
 
-/* home page text and images */
 .about-us {
     height: 60px;
     clear: both;
@@ -82,13 +92,7 @@ body {
 img {
     max-width: 100%;
     max-height: 100%;
-    margin-left: 30px;
-    
-    
-}
-
-.what-we-do {
-    height: 250px;
+    margin-left: 30px; 
 }
 
 #female-image {
@@ -104,15 +108,8 @@ img {
 
 /* What we do page */
 
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.what-we-do {
     height: 250px;
-    margin-right: 20px;
-    clear: both;
-    
-    
 }
 
 .image {
