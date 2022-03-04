@@ -65,7 +65,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 
 ### Media
 * The Home Image on the home page was taken from [iStockPhoto](https://istockphoto.com)
-* The Summer hil walking image on the What we do page was taken from [Pixabay](https://pixabay.com)
+* The Summer hill walking image on the What we do page was taken from [Pixabay](https://pixabay.com)
 * The winter climbing image was taken from [RawPixel](https://rawpixel.com)
 * The last image on the Where we go page was taken from [Pixabay](https://pixabay.com)
 * All other images are authors own
