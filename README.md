@@ -20,6 +20,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * This section shows the user who works for Mountain Top Guides by using photos of the two guides and text explaining their experience.
 * It is useful as it shows the user who the people are who they would be hiring. Happy, smiling photos are used to show the user that the guides are friendly and approachable.
 * Photos are taken in an outdoor setting to re-emphasise the purpose of the company.
+![Screenshot who we are](https://user-images.githubusercontent.com/98251531/156764563-4967e5bf-5d90-4fe2-bd6f-fa1dd78fccb7.jpg)
 
 ### Contact details
 * This section is used across 3 of the 4 pages, but not the Want to join page as there is other ways of contacting on that page.
