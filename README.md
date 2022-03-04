@@ -14,6 +14,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 
 ### Hero image
 * The hero image is used on the home page. It is an eye catching image and gives the user an instant idea of what Mountain Top Guides offer.
+![glencoe-1248184_1920](https://user-images.githubusercontent.com/98251531/156764123-fb3ac77a-3886-4e44-ab96-424290855f6f.jpg)
 
 ### Who we are section
 * This section shows the user who works for Mountain Top Guides by using photos of the two guides and text explaining their experience.
