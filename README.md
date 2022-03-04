@@ -31,6 +31,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 ### Footer
 * This section which is on all pages gives links to social media pages, Facebook, Instagram and Youtube. They will open on a seperate page. 
 * This will be useful to the user so they can see pictures and videos of past trips and also encourages the user to keep connected.
+![Screenshot footer](https://user-images.githubusercontent.com/98251531/156765344-7edcdf29-b956-44d8-ba1b-16c53f693c87.jpg)
 
 ### What we do page
 * This page has 3 sections ordered vertically and will show what Mountain Top Guides has to offer. An alluring image has been set aside the text of what they offer to allow the user an idea of what they could experience for each trip.
