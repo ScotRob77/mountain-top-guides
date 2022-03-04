@@ -10,6 +10,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 ### Navigation Bar
 * Featured on all 4 pages the navigation bar is resonsive and highlights which page the user is on by being underlined.
 * Each section shows a different colour line under it when hovered over.
+![Screenshot logo-navbar](https://user-images.githubusercontent.com/98251531/156763382-a9ac03b2-5e16-4968-9518-ba03722f75ca.jpg)
 
 ### Hero image
 * The hero image is used across all pages and gives the user an idea of the sort of views they could see if they choose to hire the company.
