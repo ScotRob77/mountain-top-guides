@@ -2,6 +2,7 @@
 This website is targeted towards people who want to adventure into the mountains of the UK during summer and winter but maybe don't have the confidence or skillset to do it in a safe and responsible manner.
 It is aimed at the beginner and more advanced hill walker. It also offers customers the opportunity to try winter climbing. The site will be useful for walkers to realise they don't need to have knowledge in mountain saftey to enjoy the wilder parts of Britain, as the guide will keep them safe at all times.
 
+![Screenshot Responsive](https://user-images.githubusercontent.com/98251531/156762531-7c4fbda6-7cfd-4efa-9da4-d0f8b0d31ded.jpg)
 # Features
 ## Existing Features
 ### Company logo
