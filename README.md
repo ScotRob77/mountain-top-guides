@@ -26,6 +26,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * This section is used across 3 of the 4 pages, but not the Want to join page as there is other ways of contacting on that page.
 * This section gives an aesthetic image of a sunset in the hills to capture the eye of the user.
 * It also shows the user the name of the company, a phone number and email address enabling them to contact via this media if preferred.
+![Screenshot contact](https://user-images.githubusercontent.com/98251531/156765030-b259fb59-7a70-467b-89b0-7e4330c38fba.jpg)
 
 ### Footer
 * This section which is on all pages gives links to social media pages, Facebook, Instagram and Youtube. They will open on a seperate page. 
