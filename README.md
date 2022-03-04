@@ -39,12 +39,14 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 ![Screenshot what we do 2](https://user-images.githubusercontent.com/98251531/156765844-46be9f71-6227-4594-81bc-2c3c498b9fe0.jpg)
 
 ### Where we go page
-* This page will provide the user with images showing the scenery seen on previous trips and what the user could expect to see if they were to venture out with Mountain Top Guides.
+* This page will provide the user with thumbnail images showing the scenery seen on previous trips and what the user could expect to see if they were to venture out with Mountain Top Guides. By clicking on the thumbnails a larger picture will open up in a new page.
+![Screenshot gallery](https://user-images.githubusercontent.com/98251531/156766439-a37bf2fe-6747-47ae-811d-5eda0eb08ef5.jpg)
 
 ### Want to join page
 * This page will give the user the opportunity to find out more and to ask specific questions
 * The user will be unable to submit unless all fields have been completed.
 * This is a fake form and will send you to a Thank You page.
+![Screenshot want to join](https://user-images.githubusercontent.com/98251531/156766449-492ad90d-ac42-47e2-9f70-a5aae953e48c.jpg)
 
 ### Future features
 * A blog offering advice and tips for the hill walking community.
