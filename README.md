@@ -35,6 +35,8 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 
 ### What we do page
 * This page has 3 sections ordered vertically and will show what Mountain Top Guides has to offer. An alluring image has been set aside the text of what they offer to allow the user an idea of what they could experience for each trip.
+![Screenshot what we do 1](https://user-images.githubusercontent.com/98251531/156765824-6b36624b-823d-4a0b-93f1-d15038fa89f5.jpg)
+![Screenshot what we do 2](https://user-images.githubusercontent.com/98251531/156765844-46be9f71-6227-4594-81bc-2c3c498b9fe0.jpg)
 
 ### Where we go page
 * This page will provide the user with images showing the scenery seen on previous trips and what the user could expect to see if they were to venture out with Mountain Top Guides.
