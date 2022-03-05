@@ -326,7 +326,7 @@ footer {
     /* for small screens up to 400px wide */
 
 @media screen and (max-width: 400px) {
-
+        
         .container>img {
             margin-left: 0;
         }
@@ -339,6 +339,25 @@ footer {
         #male-image {
             max-width: 150px;
             max-height: 150px;
+        }
+
+        #winter-image {
+            max-width: 200px;
+            max-height: 150px;
+        
+        }
+        
+        #summer-image {
+            max-width: 200px;
+            max-height: 150px;
+            
+        
+        }
+        
+        #climb-image {
+            max-width: 200px;
+            max-height: 150px;
+        
         }
 
 }
