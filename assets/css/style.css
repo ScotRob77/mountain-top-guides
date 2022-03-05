@@ -290,6 +290,7 @@ footer {
     .text {
         padding: 0;
         margin: 0 auto;
+        text-align: center;
     }
 
     #company-name {
@@ -304,18 +305,40 @@ footer {
     }
 }
 
+/* for medium screens up to 600px wide */
+
 @media screen and (max-width: 600px) {
     #nav li {
         margin-right: 5px;
     }
 
-    #logo, #nav {
+    #logo,
+    #nav {
         line-height: 30px;
-}
+    }
 
     .signup-form {
         max-width: 100%;
         left: 0;
     }
+}
+
+    /* for small screens up to 400px wide */
+
+@media screen and (max-width: 400px) {
+
+        .container>img {
+            margin-left: 0;
+        }
+
+        #female-image {
+            max-width: 150px;
+            max-height: 150px;
+        }
+
+        #male-image {
+            max-width: 150px;
+            max-height: 150px;
+        }
 
 }
