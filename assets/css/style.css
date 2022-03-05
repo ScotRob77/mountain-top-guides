@@ -146,11 +146,12 @@ img {
 }
 
 .signup-form {
-    margin: 100px 10% 0 0;
+    margin: -100px 0 0 0;
     color: #fff;
     background-color: rgba(121, 121, 194, 0.5);
     max-width: 400px;
     position: absolute;
+    top: 50%;
     padding: 30px;
     left: 30%;
 
@@ -244,7 +245,7 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 200px;
-    
+
 }
 
 #gallery>a>img:hover {
@@ -277,7 +278,7 @@ footer {
 
 /* Media Queries */
 
-/* for medium to small size screens up to 800px wide */
+/* for medium screens up to 800px wide */
 
 @media screen and (max-width: 800px) {
     .container {
@@ -297,4 +298,24 @@ footer {
 
         font-family: Roboto, sans-serif;
     }
+
+    .signup-form {
+        left: 20%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #nav li {
+        margin-right: 5px;
+    }
+
+    #logo, #nav {
+        line-height: 30px;
+}
+
+    .signup-form {
+        max-width: 100%;
+        left: 0;
+    }
+
 }
