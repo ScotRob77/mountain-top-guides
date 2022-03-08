@@ -10,7 +10,7 @@ body {
     font-family: nunito, sans-serif;
     font-weight: 400;
     color: white;
-    background-color: rgb(121, 121, 194);
+    background-color: rgb(67, 67, 133);
 }
 
 .container {
@@ -21,7 +21,6 @@ body {
     margin: 2px 20px;
     border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
     border: 2px solid white;
-
 }
 
 /* headings and subheadings */
@@ -39,9 +38,7 @@ body {
     text-align: center;
     color: darkblue;
     width: 100%;
-
 }
-
 
 /* header logo and navigation links */
 
@@ -53,15 +50,12 @@ body {
 #logo {
     float: left;
     padding-left: 30px;
-
 }
-
 
 #nav li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-
 }
 
 #nav a {
@@ -76,7 +70,6 @@ body {
 .active {
     border-bottom: 1px solid darkblue;
 }
-
 
 /* home page text and images */
 #home-image {
@@ -101,13 +94,10 @@ img {
     max-height: 200px;
 }
 
-
 /* What we do page */
-
 
 .image {
     float: left;
-
 }
 
 .text {
@@ -115,24 +105,19 @@ img {
     padding-left: 40px;
 }
 
-
-
 #winter-image {
     max-width: 300px;
     max-height: 200px;
-
 }
 
 #summer-image {
     max-width: 300px;
     max-height: 200px;
-
 }
 
 #climb-image {
     max-width: 300px;
     max-height: 200px;
-
 }
 
 /* Form */
@@ -154,7 +139,6 @@ img {
     top: 50%;
     padding: 30px;
     left: 30%;
-
 }
 
 .signup-form>h2 {
@@ -215,13 +199,11 @@ img {
     width: 100%;
     background-size: 100% 300px;
     margin-top: 5px;
-
 }
 
 #contact {
     text-align: center;
     padding-top: 30px;
-
 }
 
 #contact-details {
@@ -238,14 +220,11 @@ img {
 
 /* where we go photos */
 
-
-
 #gallery>a>img {
     border: 1px solid white;
     border-radius: 4px;
     padding: 5px;
     width: 200px;
-
 }
 
 #gallery>a>img:hover {
@@ -260,12 +239,10 @@ footer {
 
 .social-media {
     text-align: center;
-
 }
 
 .social-media>li {
     display: inline;
-
 }
 
 .social-media i {
@@ -273,7 +250,6 @@ footer {
     color: white;
     padding: 1.5%;
     margin: 0 10%;
-
 }
 
 /* Media Queries */
@@ -284,7 +260,6 @@ footer {
     .container {
         height: 550px;
         flex-direction: column;
-
     }
 
     .text {
@@ -296,7 +271,6 @@ footer {
     #company-name {
         font-size: 200%;
         text-align: center;
-
         font-family: Roboto, sans-serif;
     }
 
@@ -344,20 +318,16 @@ footer {
         #winter-image {
             max-width: 200px;
             max-height: 150px;
-        
         }
         
         #summer-image {
             max-width: 200px;
             max-height: 150px;
-            
-        
         }
         
         #climb-image {
             max-width: 200px;
             max-height: 150px;
-        
         }
 
 }
