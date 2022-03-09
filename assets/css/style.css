@@ -220,6 +220,8 @@ img {
 
 /* where we go photos */
 
+.thumbnails { text-align: center; }
+
 #gallery>a>img {
     border: 1px solid white;
     border-radius: 4px;
@@ -228,7 +230,7 @@ img {
 }
 
 #gallery>a>img:hover {
-    box-shadow: 0 0 2px 1px darkblue;
+    box-shadow: 0 0 2px 1px white;
 }
 
 /* footer */
