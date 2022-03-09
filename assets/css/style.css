@@ -295,6 +295,10 @@ footer {
         max-width: 100%;
         left: 0;
     }
+
+    img {
+        margin-left: 0;
+    }
 }
 
     /* for small screens up to 400px wide */
