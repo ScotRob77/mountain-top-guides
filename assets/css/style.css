@@ -68,7 +68,7 @@ body {
 }
 
 .active {
-    border-bottom: 1px solid darkblue;
+    border-bottom: 1px solid rgb(168, 168, 216);
 }
 
 /* home page text and images */
@@ -181,7 +181,7 @@ img {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: darkblue;
+    background-color: rgb(67, 67, 133);
     color: #fafafa;
     display: block;
 }
