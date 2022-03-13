@@ -254,6 +254,13 @@ footer {
     margin: 0 10%;
 }
 
+/* Google map */
+#map {
+    width: 100%; 
+    height: 300px; 
+    border: 0; 
+}
+
 /* Media Queries */
 
 /* for medium screens up to 800px wide */
