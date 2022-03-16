@@ -54,6 +54,10 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * A blog offering advice and tips for the hill walking community.
 * A page for customers to upload their own pictures taken on trips with Mountain Top Guides.
 
+# Typography and color scheme
+* I want fonts that are clear and easy to read so used Roboto for headings and Nunito for main text from [Google Fonts](https://www.Fonts.google.com)
+* I wanted a clear, clean color scheme so opted for blue background with a white text. 
+
 # Testing
 * I tested that this page works on Chrome and Edge.
 * I confirmed that this project is responsive and works on all screen sizes using the dev tools available on Chrome and Edge.
@@ -61,9 +65,19 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * I confirmed that all internal links work as they should.
 * I have confirmed that the Want to join form works: that it requires an entry in each field; will only accept a proper email format in the email field; and the submit button takes you to a thank you page.
 
-# Typography and color scheme
-* I want fonts that are clear and easy to read so used Roboto for headings and Nunito for main text from [Google Fonts](https://www.Fonts.google.com)
-* I wanted a clear, clean color scheme so opted for blue background with a white text. 
+# Bugs
+### Solved Bugs
+* When I deployed to Github pages and validated there were errors in my nav list. There were two closing li tags. This was resolved by deleting one.
+* The background colour also didn't contrast well enough with some of the text. I changed the background colour to a darker blue and removed the dark blue text for white.
+
+# Validator Testing
+### HTML
+* No errors were returned when passing through the official W3C validator
+### CSS
+* No errors were found when passing through the official (Jigsaw) validator
+### Accessibility
+* I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+
 
 # Credits
 ### Content
