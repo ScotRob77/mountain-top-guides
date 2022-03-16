@@ -77,7 +77,23 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * No errors were found when passing through the official (Jigsaw) validator
 ### Accessibility
 * I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+![validator](https://github.com/ScotRob77/mountain-top-guides/blob/main/assets/images/Screenshot%20Lighthouse.jpg?raw=true)
 
+# Deployment
+* The site was deployed to Github pages. The steps to deploy are as follows:
+<ol>
+     <li> In the Github repository, navigate to the Settings tab
+     </li>
+     <li> Scroll down to the Github Pages section and click on 'Check it out here!'
+     </li>
+     <li> From the source section drop-down menu, select the Main Branch and click save
+     </li>
+     <li> Once the Main Branch has been selected and saved the page provided the link to the completed website
+     </li>
+    
+</ol>
+
+The live link can be found here [Mountain Top Guides](https://scotrob77.github.io/mountain-top-guides/index.html)
 
 # Credits
 ### Content
