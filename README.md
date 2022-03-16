@@ -70,6 +70,9 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * When I deployed to Github pages and validated there were errors in my nav list. There were two closing li tags. This was resolved by deleting one.
 * The background colour also didn't contrast well enough with some of the text. I changed the background colour to a darker blue and removed the dark blue text for white.
 
+### Unresolved Bugs
+* On smaller screens (under 430px) the nav bar goes onto two lines with the first two pages going onto the second line which would be better if they were on the top line. The links still work but is not aeshetically the best
+
 # Validator Testing
 ### HTML
 * No errors were returned when passing through the official W3C validator
