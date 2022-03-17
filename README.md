@@ -161,6 +161,13 @@ The user can see on the home page who the guides are and what experience they ha
 
 The live link can be found here [Mountain Top Guides](https://scotrob77.github.io/mountain-top-guides/index.html)
 
+### Cloning
+* Go to https://github.com/ScotRob77/mountain-top-guides repsoitory on Github
+* Click 'Code' which is to the left of the Gitpod button
+* Copy link
+* Open a Gitbash terminal and navigate to the directory where you want to locate the clone
+* On the command line, type 'git clone' and paste the copied url. Press Enter to begin
+
 # Credits
 ### Content
 * The code for the contact form on the Want to join page was based on the code from Code Institutes Love Running Walkthrough Project. The colour scheme, text, and box count was altered from the original code.
