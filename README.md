@@ -6,6 +6,18 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 
 ![Screenshot Responsive](https://github.com/ScotRob77/mountain-top-guides/blob/main/assets/images/new_responsive_screenshot.jpg?raw=true)
 
+# Index
+* User Experience
+* Features
+* Typography and color scheme
+* Wireframes
+* Technologies used
+* Testing
+* Bugs
+* Validator testing
+* Deployment
+* Credits
+
 # User Experience (UX)
 ### First time visitor goals
 * As a first time visitor, I want to be able to easily navigate the site.
@@ -82,6 +94,16 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 ![Wireframes](assets/docs/README-files/where_we_go_wf.png)
 ![Wireframes](assets/docs/README-files/want_%20to_%20join_wf.png)
 
+# Technologies used
+* [HTML](https://en.wikipedia.org/wiki/HTML5) 
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+### Design
+* [Gitpod](https://gitpod.io)
+* [Github](https://github.com/)
+* [Balsamiq](https://balsamiq.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+
 # Testing
 * I tested that this page works on Chrome and Edge.
 * I confirmed that this project is responsive and works on all screen sizes using the dev tools available on Chrome and Edge.
@@ -100,25 +122,20 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 # Validator Testing
 ### HTML
 * No errors were returned when passing through the official W3C validator
+![w3c validator](assets/images/screenshot_no_errors.jpg)
 ### CSS
 * No errors were found when passing through the official (Jigsaw) validator
+![jigsaw validator](assets/images/screenshot_no_w3c_error.jpg)
 ### Accessibility
 * I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 ![validator](https://github.com/ScotRob77/mountain-top-guides/blob/main/assets/images/Screenshot%20Lighthouse.jpg?raw=true)
 
 # Deployment
 * The site was deployed to Github pages. The steps to deploy are as follows:
-<ol>
-     <li> In the Github repository, navigate to the Settings tab
-     </li>
-     <li> Scroll down to the Github Pages section and click on 'Check it out here!'
-     </li>
-     <li> From the source section drop-down menu, select the Main Branch and click save
-     </li>
-     <li> Once the Main Branch has been selected and saved the page provided the link to the completed website
-     </li>
-    
-</ol>
+     * In the Github repository, navigate to the Settings tab
+     * Scroll down to the Github Pages section and click on 'Check it out here!'
+     * From the source section drop-down menu, select the Main Branch and click save
+     * Once the Main Branch has been selected and saved the page provided the link to the completed website    
 
 The live link can be found here [Mountain Top Guides](https://scotrob77.github.io/mountain-top-guides/index.html)
 
