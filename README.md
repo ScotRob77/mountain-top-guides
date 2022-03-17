@@ -156,13 +156,14 @@ The user can see on the home page who the guides are and what experience they ha
      * In the Github repository, navigate to the Settings tab
      * Scroll down to the Github Pages section and click on 'Check it out here!'
      * From the source section drop-down menu, select the Main Branch and click save
-     * Once the Main Branch has been selected and saved the page provided the link to the completed website    
+     * Once the Main Branch has been selected and saved the page provides the link to the completed website
+     * Any changes made to the main branch and pushed from Gitpod will take effect on the live project.
 
 The live link can be found here [Mountain Top Guides](https://scotrob77.github.io/mountain-top-guides/index.html)
 
 # Credits
 ### Content
-* The code for sign up form on the Want to join page was based on the code from Code Institutes Love Running Walkthrough Project. The colour scheme, text, and box count was altered from the original code.
+* The code for the contact form on the Want to join page was based on the code from Code Institutes Love Running Walkthrough Project. The colour scheme, text, and box count was altered from the original code.
 * The icons in the footer and logo in header were taken from [Font Awesome](https://FontAwesome.com)
 * The code for the border around the Who we are and What we do sections was taken from [Code Pen](https://codepen.io)
 
