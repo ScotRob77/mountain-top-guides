@@ -1,5 +1,5 @@
 # Mountain Top Guides
-This website is targeted towards people who want to adventure into the mountains of the UK during summer and winter but maybe don't have the confidence or skillset to do it in a safe and responsible manner.
+This website advertises a fictional mountain guide business and is targeted towards people who want to adventure into the mountains of the UK during summer and winter but maybe don't have the confidence or skillset to do it in a safe and responsible manner.
 It is aimed at the beginner and more advanced hill walker. It also offers customers the opportunity to try winter climbing. The site will be useful for walkers to realise they don't need to have knowledge in mountain saftey to enjoy the wilder parts of Britain, as the guide will keep them safe at all times.
 
 [Link to live website](https://scotrob77.github.io/mountain-top-guides/index.html)
