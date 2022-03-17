@@ -58,6 +58,9 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * I want fonts that are clear and easy to read so used Roboto for headings and Nunito for main text from [Google Fonts](https://www.Fonts.google.com)
 * I wanted a clear, clean color scheme so opted for blue background with a white text. 
 
+# Wireframes
+[Wireframes](assets/docs/README-files/who_we_are_wf.png)
+
 # Testing
 * I tested that this page works on Chrome and Edge.
 * I confirmed that this project is responsive and works on all screen sizes using the dev tools available on Chrome and Edge.
