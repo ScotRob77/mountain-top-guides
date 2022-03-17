@@ -111,6 +111,26 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * I confirmed that all internal links work as they should.
 * I have confirmed that the Want to join form works: that it requires an entry in each field; will only accept a proper email format in the email field; and the submit button takes you to a thank you page.
 
+##  Testing user stories
+* ##### As a first time visitor, I want to be able to easily navigate the site.
+The navigation bar at the top of the page is easily readable and identifiable.
+* ##### As a first time visitor, I want to be able to see clearly what the company has to offer.
+The What we do page clearly shows what the company offers and has images to enforce the message.
+* ##### As a first time visitor. I want to be able to see images of previous trips.
+On the Where we go page there are a number of thumbnails showing images from previous trips.
+* ##### As a first time visitor, I want to know where the company is based.
+On the Want to join page there is a map showig a fictious location for the company. 
+* ##### As a returning visitor, I want to be able to easily find how I can contact the company.
+On the want to join page there is a contact form. There is also a phone number and email address just above the footer of each page
+* ##### As a returning visitor, I would  like to be able to see links to the company's social media.
+There are social media icons in the footer of each page. As this site is fictitious the links take you to the home pages from Facebook, Instagram and Youtube.
+* ##### A user is looking to take their hill walking to the next level.
+The text on the What we do page shows the user the different levels of guiding on offer. This way the user can decide which outing would be suited to push themselves.
+* ##### A user is planning a trip and would like to do some mountain walking while on their trip.
+The site clearly shows what is on offer and states the destinations available.
+* ##### A user is looking for an experienced guide to guide them in the hills.
+The user can see on the home page who the guides are and what experience they have.
+
 # Bugs
 ### Solved Bugs
 * When I deployed to Github pages and validated there were errors in my nav list. There were two closing li tags. This was resolved by deleting one.
@@ -129,6 +149,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 ### Accessibility
 * I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 ![validator](https://github.com/ScotRob77/mountain-top-guides/blob/main/assets/images/Screenshot%20Lighthouse.jpg?raw=true)
+
 
 # Deployment
 * The site was deployed to Github pages. The steps to deploy are as follows:
