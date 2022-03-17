@@ -59,7 +59,11 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * I wanted a clear, clean color scheme so opted for blue background with a white text. 
 
 # Wireframes
-[Wireframes](assets/docs/README-files/who_we_are_wf.png)
+
+![Wireframes](assets/docs/README-files/who_we_are_wf.png)
+![Wirefames](assets/docs/README-files/what_we_do_wf.png)
+![Wireframes](assets/docs/README-files/where_we_go_wf.png)
+![Wireframes](assets/docs/README-files/want_%20to_%20join_wf.png)
 
 # Testing
 * I tested that this page works on Chrome and Edge.
