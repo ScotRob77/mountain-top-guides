@@ -5,6 +5,21 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 [Link to live website](https://scotrob77.github.io/mountain-top-guides/index.html)
 
 ![Screenshot Responsive](https://github.com/ScotRob77/mountain-top-guides/blob/main/assets/images/new_responsive_screenshot.jpg?raw=true)
+
+# User Experience (UX)
+### First time visitor goals
+* As a first time visitor, I want to be able to easily navigate the site.
+* As a first time visitor, I want to be able to see clearly what the company has to offer.
+* As a first time visitor. I want to be able to see images of previous trips.
+* As a first time visitor, I want to know where the company is based. 
+### Returning visitor goals
+* As a returning visitor, I want to be able to easily find how I can contact the company.
+* As a returning visitor, I would  like to be able to see links to the company's social media.
+### Reasons a user may visit the website
+* A user is looking to take their hill walking to the next level.
+* A user is planning a trip and would like to do some mountain walking while on their trip.
+* A user is looking for an experienced guide to guide them in the hills.
+
 # Features
 ## Existing Features
 ### Company logo
