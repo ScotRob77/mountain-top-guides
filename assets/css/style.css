@@ -140,10 +140,12 @@ img {
 
 }
 
-.signup-form>h2 {
+.signup-form>h1 {
     color: #fafafa;
     margin-bottom: 20px;
     font-family: Roboto, sans-serif;
+    font-size: 2rem;
+    padding-left: 10px;
 }
 
 .form-title {
