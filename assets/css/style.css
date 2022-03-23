@@ -11,6 +11,9 @@ body {
     font-weight: 400;
     color: white;
     background-color: rgb(67, 67, 133);
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
@@ -18,8 +21,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 250px;
-    margin: 2px 20px;
-    border-radius: 2% 6% 5% 4% / 1% 1% 2% 4%;
+    margin: 30px 20px;
     border: 2px solid white;
 }
 
@@ -84,12 +86,7 @@ img {
     margin-left: 30px;
 }
 
-#female-image {
-    max-width: 200px;
-    max-height: 200px;
-}
-
-#male-image {
+.guide-image {
     max-width: 200px;
     max-height: 200px;
 }
@@ -221,7 +218,9 @@ img {
 
 /* where we go photos */
 
-.thumbnails { text-align: center; }
+.thumbnails {
+    text-align: center;
+}
 
 #gallery>a>img {
     border: 1px solid white;
@@ -257,9 +256,9 @@ footer {
 
 /* Google map */
 #map {
-    width: 100%; 
-    height: 300px; 
-    border: 0; 
+    width: 100%;
+    height: 300px;
+    border: 0;
 }
 
 /* Media Queries */
@@ -312,37 +311,37 @@ footer {
     }
 }
 
-    /* for small screens up to 400px wide */
+/* for small screens up to 400px wide */
 
 @media screen and (max-width: 400px) {
-        
-        .container>img {
-            margin-left: 0;
-        }
 
-        #female-image {
-            max-width: 150px;
-            max-height: 150px;
-        }
+    .container>img {
+        margin-left: 0;
+    }
 
-        #male-image {
-            max-width: 150px;
-            max-height: 150px;
-        }
+    #female-image {
+        max-width: 150px;
+        max-height: 150px;
+    }
 
-        #winter-image {
-            max-width: 200px;
-            max-height: 150px;
-        }
-        
-        #summer-image {
-            max-width: 200px;
-            max-height: 150px;
-        }
-        
-        #climb-image {
-            max-width: 200px;
-            max-height: 150px;
-        }
+    #male-image {
+        max-width: 150px;
+        max-height: 150px;
+    }
+
+    #winter-image {
+        max-width: 200px;
+        max-height: 150px;
+    }
+
+    #summer-image {
+        max-width: 200px;
+        max-height: 150px;
+    }
+
+    #climb-image {
+        max-width: 200px;
+        max-height: 150px;
+    }
 
 }
