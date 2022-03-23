@@ -146,6 +146,11 @@ img {
     font-family: Roboto, sans-serif;
 }
 
+.form-title {
+    font-size: 1.3rem;
+    padding-left: 10px;
+}
+
 .text-input {
     background: white;
     color: rgb(67, 67, 133);
@@ -183,7 +188,7 @@ img {
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    font-size: 100%;
+    font-size: 1.2rem;
     background-color: rgb(67, 67, 133);
     color: #fafafa;
     display: block;
