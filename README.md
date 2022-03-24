@@ -148,7 +148,7 @@ The user can see on the home page who the guides are and what experience they ha
 ![jigsaw validator](assets/images/screenshot_no_w3c_error.jpg)
 ### Accessibility
 * I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
-![validator](assets/images/screenshot_lighthouse.jpg)
+![validator](assets/images/lighthouse_screenshot.jpg)
 
 
 # Deployment
