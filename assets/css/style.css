@@ -41,6 +41,7 @@ body {
     text-align: center;
     color: white;
     width: 100%;
+    padding-bottom: 10px;
 }
 
 /* header logo and navigation links */
@@ -104,17 +105,7 @@ img {
     padding-right: 20px;
 }
 
-#winter-image {
-    max-width: 300px;
-    max-height: 200px;
-}
-
-#summer-image {
-    max-width: 300px;
-    max-height: 200px;
-}
-
-#climb-image {
+#what-image {
     max-width: 300px;
     max-height: 200px;
 }
@@ -285,7 +276,7 @@ footer {
     }
 
     .text {
-        padding: 0;
+        padding: 10px 15px;
         margin: 0 auto;
         text-align: center;
     }
@@ -328,27 +319,7 @@ footer {
         margin-left: 0;
     }
 
-    #female-image {
-        max-width: 150px;
-        max-height: 150px;
-    }
-
-    #male-image {
-        max-width: 150px;
-        max-height: 150px;
-    }
-
-    #winter-image {
-        max-width: 200px;
-        max-height: 150px;
-    }
-
-    #summer-image {
-        max-width: 200px;
-        max-height: 150px;
-    }
-
-    #climb-image {
+    #what-image {
         max-width: 200px;
         max-height: 150px;
     }
