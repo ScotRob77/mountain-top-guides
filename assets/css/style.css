@@ -49,13 +49,13 @@ body {
 
 #logo,
 #nav {
-    line-height: 80px;
+    line-height: 90px;
     text-align: right;
 }
 
 #logo {
     float: left;
-    padding: 10px 0 0 30px;
+    padding: 5px 0 0 30px;
 }
 
 #nav li {
@@ -297,7 +297,7 @@ footer {
 
 /* for medium screens up to 600px wide */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {   
     #nav li {
         margin-right: 10px;
         font-size: 1rem;
@@ -306,7 +306,7 @@ footer {
 
     #logo,
     #nav {
-        line-height: 30px;
+        line-height: 45px;
     }
 
     .signup-form {
