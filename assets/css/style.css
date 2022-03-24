@@ -78,7 +78,7 @@ body {
 #home-image {
     height: 300px;
     width: 100%;
-    background: url(../images/glencoe-1248184_1920.jpg) no-repeat center center;
+    background: url(../images/glencoe_1248184_1920.jpg) no-repeat center center;
 }
 
 img {
@@ -124,7 +124,7 @@ img {
 
 .form-section {
     clear: left;
-    background: url(../images/mountain-pass.jpg);
+    background: url(../images/mountain_pass.jpg);
     background-size: cover;
     background-position: center;
     height: 900px;
