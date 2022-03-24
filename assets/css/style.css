@@ -23,6 +23,7 @@ body {
     height: 250px;
     margin: 30px 20px;
     border: 2px solid white;
+    border-radius: 4px;
 }
 
 /* headings and subheadings */
@@ -205,18 +206,20 @@ img {
 
 #contact {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 10px;
+    font-size: 2rem;
 }
 
 #contact-details {
     text-align: center;
     padding-top: 10px;
+    font-size: 1.5rem;
 }
 
 #company-name {
-    font-size: 400%;
+    font-size: 4rem;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 60px;
     font-family: Roboto, sans-serif;
 }
 
@@ -282,9 +285,12 @@ footer {
     }
 
     #company-name {
-        font-size: 200%;
-        text-align: center;
-        font-family: Roboto, sans-serif;
+        font-size: 3rem;
+        padding-top: 60px;
+    }
+
+    #contact-details {
+        font-size: 1rem;
     }
 }
 
@@ -308,6 +314,10 @@ footer {
 
     img {
         margin-left: 0;
+    }
+    #company-name {
+        font-size: 2.5rem;
+        padding-top: 70px;
     }
 }
 
