@@ -135,9 +135,7 @@ The user can see on the home page who the guides are and what experience they ha
 ### Solved Bugs
 * When I deployed to Github pages and validated there were errors in my nav list. There were two closing li tags. This was resolved by deleting one.
 * The background colour also didn't contrast well enough with some of the text. I changed the background colour to a darker blue and removed the dark blue text for white.
-
-### Unresolved Bugs
-* On smaller screens (under 430px) the nav bar goes onto two lines with the first two pages going onto the second line which would be better if they were on the top line. The links still work but is not aeshetically the best
+* On smaller screens (under 430px) the nav bar went onto two lines with the first two pages going onto the second line which didn't look good. This has been resolved.
 
 # Validator Testing
 ### HTML
