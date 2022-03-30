@@ -105,7 +105,7 @@ It is aimed at the beginner and more advanced hill walker. It also offers custom
 * [Font Awesome](https://fontawesome.com/)
 
 # Testing
-* I tested that this page works on Chrome and Edge.
+* I tested that this page works on Chrome, Edge and Safari.
 * I confirmed that this project is responsive and works on all screen sizes using the dev tools available on Chrome and Edge.
 * I confirmed that all text is readable and easy to understand.
 * I confirmed that all internal links work as they should.
@@ -155,7 +155,7 @@ The user can see on the home page who the guides are and what experience they ha
      * Scroll down to the Github Pages section and click on 'Check it out here!'
      * From the source section drop-down menu, select the Main Branch and click save
      * Once the Main Branch has been selected and saved the page provides the link to the completed website
-     * Any changes made to the main branch and pushed from Gitpod will take effect on the live project.
+     * Any changes made to the main branch and pushed to Github will take effect on the live project.
 
 The live link can be found here [Mountain Top Guides](https://scotrob77.github.io/mountain-top-guides/index.html)
 
